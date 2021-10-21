@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/akshayrakheja/Documents/ECE650/a3/a3rakhej/a3/a2ece650.cpp
+iostream
+-
+sstream
+-
+vector
+-
+regex
+-
+

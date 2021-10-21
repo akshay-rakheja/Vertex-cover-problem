@@ -1,0 +1,17 @@
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/CMakeFiles/install/local.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/CMakeFiles/rebuild_cache.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/CMakeFiles/edit_cache.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/CMakeFiles/install/strip.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/CMakeFiles/install.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/CMakeFiles/list_install_components.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/CMakeFiles/a4ece650.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/install/local.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/install/strip.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/install.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/list_install_components.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/rebuild_cache.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/edit_cache.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/minisat_simp.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/minisat_core.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build/minisat/CMakeFiles/minisat-lib-static.dir

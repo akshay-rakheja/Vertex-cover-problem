@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/minisat -std=c++11 -Wall  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -o CMakeFiles/a4ece650.dir/ece650-a4.cpp.o -c /Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/ece650-a4.cpp",
+  "file": "/Users/akshayrakheja/Documents/ECE650/a4/a3rakhej/a4/ece650-a4.cpp"
+}
+]
