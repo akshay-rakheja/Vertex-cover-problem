@@ -1,0 +1,17 @@
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/CMakeFiles/install/strip.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/CMakeFiles/install.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/CMakeFiles/list_install_components.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/CMakeFiles/rebuild_cache.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/CMakeFiles/edit_cache.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/CMakeFiles/install/local.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/CMakeFiles/prjece650.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/install/local.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/install/strip.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/install.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/list_install_components.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/rebuild_cache.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/edit_cache.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/minisat_simp.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/minisat_core.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build/minisat/CMakeFiles/minisat-lib-static.dir

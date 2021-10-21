@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/minisat -std=c++11 -pthread -Wall  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -o CMakeFiles/prjece650.dir/project_satoshi.cpp.o -c /Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/project_satoshi.cpp",
+  "file": "/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/project_satoshi.cpp"
+},
+{
+  "directory": "/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/minisat -std=c++11 -pthread -Wall  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -o CMakeFiles/prjece650.dir/cnf-sat-vc.cpp.o -c /Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/cnf-sat-vc.cpp",
+  "file": "/Users/akshayrakheja/Documents/ECE650/Project/satoshi/project/cnf-sat-vc.cpp"
+}
+]
